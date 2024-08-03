@@ -1,15 +1,15 @@
 // ignore_for_file: prefer_const_constructors, camel_case_types, sized_box_for_whitespace, prefer_const_literals_to_create_immutables, unused_import, unnecessary_import, non_constant_identifier_names, unnecessary_string_interpolations, avoid_web_libraries_in_flutter, avoid_print
 
-import 'package:chat_bot_app/features_page.dart';
-import 'package:chat_bot_app/pallete.dart';
-import 'package:chat_bot_app/textdata.dart';
+import 'package:chat_bot_app/pages/features_page.dart';
+import 'package:chat_bot_app/theme/pallete.dart';
+import 'package:chat_bot_app/pages/textdata.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:lottie/lottie.dart';
 import 'package:speech_to_text/speech_recognition_result.dart';
 import 'package:speech_to_text/speech_to_text.dart';
-import 'gemini_integration.dart';
-import 'gemini_services.dart';
+import '../utils/gemini_integration.dart';
+import '../utils/gemini_services.dart';
 // import 'dart:ui/painting.dart';
 
 class home_page extends StatefulWidget {

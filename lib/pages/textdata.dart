@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors, camel_case_types, prefer_const_literals_to_create_immutables, sized_box_for_whitespace, non_constant_identifier_names
 
-import 'package:chat_bot_app/pallete.dart';
+import 'package:chat_bot_app/theme/pallete.dart';
 import 'package:flutter/material.dart';
 
 class text_field_data extends StatelessWidget {

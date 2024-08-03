@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors, camel_case_types, unnecessary_import, unused_import, non_constant_identifier_names
 
 import 'package:avatar_glow/avatar_glow.dart';
-import 'package:chat_bot_app/pallete.dart';
+import 'package:chat_bot_app/theme/pallete.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:lottie/lottie.dart';

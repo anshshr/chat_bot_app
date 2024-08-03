@@ -2,7 +2,7 @@
 
 import 'dart:async';
 
-import 'package:chat_bot_app/homepage.dart';
+import 'package:chat_bot_app/pages/homepage.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 

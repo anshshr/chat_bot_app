@@ -1,12 +1,12 @@
 // ignore_for_file: camel_case_types, prefer_const_constructors, prefer_const_literals_to_create_immutables, unused_import, unnecessary_import
 
-import 'package:chat_bot_app/gemini_services.dart';
-import 'package:chat_bot_app/pallete.dart';
-import 'package:chat_bot_app/speech_to_text.dart';
+import 'package:chat_bot_app/utils/gemini_services.dart';
+import 'package:chat_bot_app/theme/pallete.dart';
+import 'package:chat_bot_app/utils/speech_to_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:lottie/lottie.dart';
-import 'chat_bot.dart';
+import '../chat_bot.dart';
 
 class feature_part extends StatefulWidget {
   const feature_part({super.key});

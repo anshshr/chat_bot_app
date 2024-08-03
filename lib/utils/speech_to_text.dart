@@ -1,10 +1,8 @@
 // ignore_for_file: camel_case_types, prefer_const_constructors, non_constant_identifier_names, unused_import, unnecessary_import
 
-import 'package:chat_bot_app/gemini_services.dart';
-import 'package:chat_bot_app/pallete.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:chat_bot_app/utils/gemini_services.dart';
+import 'package:chat_bot_app/theme/pallete.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
 import 'package:speech_to_text/speech_to_text.dart';

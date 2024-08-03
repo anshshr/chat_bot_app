@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:lottie/lottie.dart';
-import 'gemini_integration.dart';
+import 'utils/gemini_integration.dart';
 
 
 class chat_bot extends StatefulWidget {

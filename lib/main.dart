@@ -1,9 +1,9 @@
 // ignore_for_file: prefer_const_constructors, camel_case_types, unused_import
 
-import 'package:chat_bot_app/pallete.dart';
-import 'package:chat_bot_app/spalshscreen.dart';
+import 'package:chat_bot_app/pages/homepage.dart';
+import 'package:chat_bot_app/theme/pallete.dart';
+import 'package:chat_bot_app/pages/spalshscreen.dart';
 import 'package:flutter/material.dart';
-import 'package:chat_bot_app/homepage.dart';
 
 void main() {
   runApp(MaterialApp(

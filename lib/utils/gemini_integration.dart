@@ -2,7 +2,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'secrets.dart';
+import '../secrets/secrets.dart';
 class gemini_api {
   static Future<Map<String, String>> getheader() async {
     return {
